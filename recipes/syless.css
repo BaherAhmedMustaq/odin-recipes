@@ -1,0 +1,36 @@
+body{
+    background-color: orange;
+}
+
+h1{
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+}
+
+p{
+    color:navy;
+}
+
+center{
+    text-align: center;
+}
+
+img.center{
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
+
+.subsection{
+    font-size: 18px;
+}
+
+ol li{
+    font-size:18px;
+}
+
+ol li p{
+    font-size:16px;
+}
